@@ -1,0 +1,7 @@
+# Lession learned after this lab
+
+- MITM attacks often rely on ARP spoofing at the local network level
+- Monitoring ARP tables and DNS behavior in critical for early detection
+- MITM detection is a key responsibility in SOC and network security roles
+- Small anomalies in traffic patterns can indicate larger security incidents
+
