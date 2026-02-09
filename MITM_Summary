@@ -1,0 +1,8 @@
+# Lab summary: Man in the middle detection
+
+In this lab, I analysed network behavior to identify signs of a MITM attack. 
+MITM attacks allow an attacker to intercept, modify, or redirect network traffic without the victim's knowledge
+
+The analysis focused on abnormal ARP behavior, suspicious DNS responses, and unexpected traffic patterns that indicate traffic interception
+
+From a SOC analyst perspective, these behaviors are critical early warning signs of a compromised network
