@@ -1,1 +1,9 @@
+# Tools and techniques used
 
+- Network traffic analysis
+- ARP inspection
+- DNS traffic inspection
+- MITM detection techniques
+
+- TryHackMe virtual environment
+- Wireshark
