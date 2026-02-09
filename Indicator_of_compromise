@@ -1,0 +1,7 @@
+# Indicators of compromise (IOCs)
+
+Potential indicators of a MITM attack observed:
+- Duplicate or inconsistent ARP replies
+- Multiple MAC addresses associated with a single IP address
+- Unexpected DNS responses or redirections
+- Traffic passing through an unknown or unauthorized intermediary device
